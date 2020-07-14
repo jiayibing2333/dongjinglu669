@@ -8,7 +8,7 @@ setup(
     long_description="Light-weight tool to generate markdown-formatted lab reports. For python.",
     license="MIT",
 
-    url="https://github.com/Plastic-Metal/pyLabOn",
+    url="https://github.com/jiayibing2333/dongjinglu669",
     author="Ferdinand Sukhoi",
     author_email="ferdinandsukhoi@outlook.com",
 
